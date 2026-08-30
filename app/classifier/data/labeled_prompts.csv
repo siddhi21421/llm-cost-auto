@@ -1,0 +1,211 @@
+prompt,tier
+"Evaluate the trade-offs between speed and accuracy for the process in the attached resume, and recommend a threshold.",3
+Synthesize insights across the churn data and a competitor's data to infer a market trend.,3
+Provide a structured analysis of the invoice covering key metrics and one risk.,2
+Tag the research abstract with up to three relevant keywords.,2
+Brainstorm five creative and non-obvious solutions to the problem described in the user's feedback.,3
+Tag the meeting transcript with up to three relevant keywords.,2
+Convert this into title case: the onboarding doc,1
+Synthesize insights across this job posting and a competitor's data to infer a market trend.,3
+Write a short creative story opening inspired by this news article.,3
+Synthesize insights across the meeting transcript and a competitor's data to infer a market trend.,3
+Reformat our marketing email into a bulleted list with no other changes.,1
+"Categorize the meeting transcript into one of: urgent, normal, low priority.",2
+"Evaluate the trade-offs between speed and accuracy for the process in this API changelog, and recommend a threshold.",3
+Compare two options from this news article on a single dimension: cost.,2
+Compare two options from the onboarding doc on a single dimension: cost.,2
+Reformat the onboarding doc into a bulleted list with no other changes.,1
+Provide a structured analysis of the meeting transcript covering key metrics and one risk.,2
+"Classify the sentiment of the onboarding doc as positive, negative, or neutral.",2
+Convert this into title case: this API changelog,1
+Summarize the main complaint in the meeting transcript and suggest one fix.,2
+Convert this into title case: the churn data,1
+"Classify the sentiment of the attached resume as positive, negative, or neutral.",2
+"Identify whether our marketing email requires follow-up action, and why, in one paragraph.",2
+Critique the reasoning in the flight itinerary and propose a stronger argument.,3
+Extract the name and date from: 'Order shipped March 9th to 221B Baker Street.',1
+"Argue for or against a claim found in the churn data, addressing the strongest counterargument.",3
+"Analyze the Q3 sales report and recommend a strategy, weighing at least two trade-offs.",3
+Reformat the invoice into a bulleted list with no other changes.,1
+Reformat this legal clause into a bulleted list with no other changes.,1
+Write a short creative story opening inspired by the earnings call.,3
+Extract and summarize the top 3 takeaways from the Q3 sales report.,2
+Extract and summarize the top 3 takeaways from our marketing email.,2
+Compare two options from the user's feedback on a single dimension: cost.,2
+Convert this into title case: the survey responses,1
+Compare two options from this API changelog on a single dimension: cost.,2
+"Classify the sentiment of this job posting as positive, negative, or neutral.",2
+"Identify whether this GitHub issue requires follow-up action, and why, in one paragraph.",2
+Synthesize insights across the attached resume and a competitor's data to infer a market trend.,3
+"Classify the sentiment of the churn data as positive, negative, or neutral.",2
+"Given the following text, pull out just the email address: 'John Smith, born 1990-04-12, joined on 2021-03-01.'",1
+Reformat this API changelog into a bulleted list with no other changes.,1
+Brainstorm five creative and non-obvious solutions to the problem described in the survey responses.,3
+Rewrite this sentence in the passive voice: 'The team shipped the release.',1
+"Explain why the flight itinerary might be misleading, considering statistical and contextual nuance.",3
+"Classify the sentiment of the survey responses as positive, negative, or neutral.",2
+Write a short creative story opening inspired by our marketing email.,3
+Tag the survey responses with up to three relevant keywords.,2
+Summarize this job posting in two sentences.,2
+"Compare the pros and cons of two competing approaches to our marketing email, and justify a recommendation.",3
+List the fields present in this job posting without interpreting them.,1
+What is the capital of Egypt?,1
+Brainstorm five creative and non-obvious solutions to the problem described in this API changelog.,3
+Provide a structured analysis of this API changelog covering key metrics and one risk.,2
+Brainstorm five creative and non-obvious solutions to the problem described in our marketing email.,3
+Brainstorm five creative and non-obvious solutions to the problem described in this news article.,3
+Tag this customer support ticket with up to three relevant keywords.,2
+"Given the following text, pull out just the email address: 'Invoice #4521 due June 15, 2026, from Acme Corp.'",1
+Reformat the user's feedback into a bulleted list with no other changes.,1
+Extract and summarize the top 3 takeaways from this API changelog.,2
+"Given this API changelog, design a step-by-step plan to address the underlying problem, explaining your reasoning at each step.",3
+"Given the following text, pull out just the email address: 'Contract signed by Maria Lopez on 2026-01-20.'",1
+"Argue for or against a claim found in the meeting transcript, addressing the strongest counterargument.",3
+"Classify the sentiment of the user's feedback as positive, negative, or neutral.",2
+Compare two options from the earnings call on a single dimension: cost.,2
+What is the capital of Kenya?,1
+Provide a structured analysis of the user's feedback covering key metrics and one risk.,2
+"Extract the name and date from: 'John Smith, born 1990-04-12, joined on 2021-03-01.'",1
+Summarize the user's feedback in two sentences.,2
+"Compare the pros and cons of two competing approaches to the attached resume, and justify a recommendation.",3
+Synthesize insights across this API changelog and a competitor's data to infer a market trend.,3
+"Analyze this GitHub issue and recommend a strategy, weighing at least two trade-offs.",3
+"Categorize this API changelog into one of: urgent, normal, low priority.",2
+Summarize the recipe in two sentences.,2
+"Given this legal clause, design a step-by-step plan to address the underlying problem, explaining your reasoning at each step.",3
+Provide a structured analysis of this GitHub issue covering key metrics and one risk.,2
+List the fields present in the onboarding doc without interpreting them.,1
+Reformat the churn data into a bulleted list with no other changes.,1
+"Compare the pros and cons of two competing approaches to this API changelog, and justify a recommendation.",3
+"Compare the pros and cons of two competing approaches to this GitHub issue, and justify a recommendation.",3
+"Extract the name and date from: 'Invoice #4521 due June 15, 2026, from Acme Corp.'",1
+Summarize the earnings call in two sentences.,2
+Convert this into title case: this GitHub issue,1
+Extract and summarize the top 3 takeaways from this legal clause.,2
+Break this legal clause down into a short table of key points and values.,2
+"Argue for or against a claim found in this news article, addressing the strongest counterargument.",3
+Extract and summarize the top 3 takeaways from the meeting transcript.,2
+Critique the reasoning in the product review and propose a stronger argument.,3
+Critique the reasoning in the user's feedback and propose a stronger argument.,3
+Compare two options from the survey responses on a single dimension: cost.,2
+Reformat the research abstract into a bulleted list with no other changes.,1
+Convert this into title case: the Q3 sales report,1
+Summarize the invoice in two sentences.,2
+Extract and summarize the top 3 takeaways from the flight itinerary.,2
+Synthesize insights across the earnings call and a competitor's data to infer a market trend.,3
+Summarize the main complaint in the user's feedback and suggest one fix.,2
+"Find the total dollar amount mentioned in: 'John Smith, born 1990-04-12, joined on 2021-03-01.'",1
+Write a short creative story opening inspired by the onboarding doc.,3
+Summarize the onboarding doc in two sentences.,2
+What is the capital of Canada?,1
+Convert this into title case: this legal clause,1
+"Classify the sentiment of this news article as positive, negative, or neutral.",2
+"Analyze the onboarding doc and recommend a strategy, weighing at least two trade-offs.",3
+"Evaluate the trade-offs between speed and accuracy for the process in the onboarding doc, and recommend a threshold.",3
+Convert '3pm EST' to UTC.,1
+Convert this into title case: the product review,1
+Find the total dollar amount mentioned in: 'Order shipped March 9th to 221B Baker Street.',1
+"Evaluate the trade-offs between speed and accuracy for the process in the Q3 sales report, and recommend a threshold.",3
+"Categorize this legal clause into one of: urgent, normal, low priority.",2
+Reformat the meeting transcript into a bulleted list with no other changes.,1
+"Classify the sentiment of the earnings call as positive, negative, or neutral.",2
+Extract the name and date from: 'Contract signed by Maria Lopez on 2026-01-20.',1
+Reformat this news article into a bulleted list with no other changes.,1
+List the fields present in the research abstract without interpreting them.,1
+List the fields present in the meeting transcript without interpreting them.,1
+Critique the reasoning in our marketing email and propose a stronger argument.,3
+"Argue for or against a claim found in the flight itinerary, addressing the strongest counterargument.",3
+What is the capital of France?,1
+"Evaluate the trade-offs between speed and accuracy for the process in this job posting, and recommend a threshold.",3
+Write a short creative story opening inspired by the research abstract.,3
+"Analyze the attached resume and recommend a strategy, weighing at least two trade-offs.",3
+Convert this into title case: the earnings call,1
+Convert this into title case: the user's feedback,1
+Summarize our marketing email in two sentences.,2
+Critique the reasoning in the recipe and propose a stronger argument.,3
+Break this news article down into a short table of key points and values.,2
+Summarize the product review in two sentences.,2
+Convert this into title case: this job posting,1
+List the fields present in this API changelog without interpreting them.,1
+Critique the reasoning in the research abstract and propose a stronger argument.,3
+"Given this news article, design a step-by-step plan to address the underlying problem, explaining your reasoning at each step.",3
+Extract and summarize the top 3 takeaways from the churn data.,2
+List the fields present in the flight itinerary without interpreting them.,1
+"Analyze the meeting transcript and recommend a strategy, weighing at least two trade-offs.",3
+Convert this into title case: our marketing email,1
+"Identify whether the attached resume requires follow-up action, and why, in one paragraph.",2
+Critique the reasoning in the invoice and propose a stronger argument.,3
+List the fields present in the invoice without interpreting them.,1
+"Identify whether the Q3 sales report requires follow-up action, and why, in one paragraph.",2
+"Find the total dollar amount mentioned in: 'Invoice #4521 due June 15, 2026, from Acme Corp.'",1
+"Given the following text, pull out just the email address: 'Call with Priya on April 2nd at 3pm.'",1
+"Compare the pros and cons of two competing approaches to the flight itinerary, and justify a recommendation.",3
+List the fields present in the user's feedback without interpreting them.,1
+Critique the reasoning in the earnings call and propose a stronger argument.,3
+"Classify the sentiment of the research abstract as positive, negative, or neutral.",2
+List the fields present in this legal clause without interpreting them.,1
+Critique the reasoning in this job posting and propose a stronger argument.,3
+List the fields present in this news article without interpreting them.,1
+"Explain why this GitHub issue might be misleading, considering statistical and contextual nuance.",3
+Summarize this legal clause in two sentences.,2
+List the fields present in the Q3 sales report without interpreting them.,1
+What is the capital of Japan?,1
+Reformat the product review into a bulleted list with no other changes.,1
+"Given the earnings call, design a step-by-step plan to address the underlying problem, explaining your reasoning at each step.",3
+Provide a structured analysis of the attached resume covering key metrics and one risk.,2
+Convert this into title case: the research abstract,1
+Convert this into title case: this customer support ticket,1
+Brainstorm five creative and non-obvious solutions to the problem described in the research abstract.,3
+"Explain why the survey responses might be misleading, considering statistical and contextual nuance.",3
+Brainstorm five creative and non-obvious solutions to the problem described in the product review.,3
+Brainstorm five creative and non-obvious solutions to the problem described in the earnings call.,3
+Summarize the main complaint in the flight itinerary and suggest one fix.,2
+Find the total dollar amount mentioned in: 'Call with Priya on April 2nd at 3pm.',1
+Compare two options from our marketing email on a single dimension: cost.,2
+Provide a structured analysis of this job posting covering key metrics and one risk.,2
+"Categorize our marketing email into one of: urgent, normal, low priority.",2
+"Explain why this customer support ticket might be misleading, considering statistical and contextual nuance.",3
+"Explain why this job posting might be misleading, considering statistical and contextual nuance.",3
+"Compare the pros and cons of two competing approaches to the invoice, and justify a recommendation.",3
+"Classify the sentiment of the meeting transcript as positive, negative, or neutral.",2
+"Argue for or against a claim found in the recipe, addressing the strongest counterargument.",3
+List the fields present in this customer support ticket without interpreting them.,1
+List the fields present in this GitHub issue without interpreting them.,1
+Convert this into title case: the meeting transcript,1
+Synthesize insights across this customer support ticket and a competitor's data to infer a market trend.,3
+"Explain why the product review might be misleading, considering statistical and contextual nuance.",3
+List the fields present in the churn data without interpreting them.,1
+Break the onboarding doc down into a short table of key points and values.,2
+List the fields present in the earnings call without interpreting them.,1
+Tag the churn data with up to three relevant keywords.,2
+Compare two options from the recipe on a single dimension: cost.,2
+"Categorize the Q3 sales report into one of: urgent, normal, low priority.",2
+"Argue for or against a claim found in the research abstract, addressing the strongest counterargument.",3
+Summarize this customer support ticket in two sentences.,2
+"Argue for or against a claim found in this job posting, addressing the strongest counterargument.",3
+Find the total dollar amount mentioned in: 'Contract signed by Maria Lopez on 2026-01-20.',1
+Write a short creative story opening inspired by the survey responses.,3
+"Identify whether this legal clause requires follow-up action, and why, in one paragraph.",2
+"Evaluate the trade-offs between speed and accuracy for the process in this customer support ticket, and recommend a threshold.",3
+What is the capital of Brazil?,1
+"Categorize this customer support ticket into one of: urgent, normal, low priority.",2
+Tag this news article with up to three relevant keywords.,2
+"Compare the pros and cons of two competing approaches to the onboarding doc, and justify a recommendation.",3
+"Given the survey responses, design a step-by-step plan to address the underlying problem, explaining your reasoning at each step.",3
+"Given the meeting transcript, design a step-by-step plan to address the underlying problem, explaining your reasoning at each step.",3
+"Compare the pros and cons of two competing approaches to this job posting, and justify a recommendation.",3
+Convert this into title case: the recipe,1
+Extract the name and date from: 'Call with Priya on April 2nd at 3pm.',1
+Convert this into title case: the attached resume,1
+Reformat the Q3 sales report into a bulleted list with no other changes.,1
+Break the invoice down into a short table of key points and values.,2
+Summarize the main complaint in the onboarding doc and suggest one fix.,2
+Summarize this GitHub issue in two sentences.,2
+Reformat this GitHub issue into a bulleted list with no other changes.,1
+Break the product review down into a short table of key points and values.,2
+"Given the following text, pull out just the email address: 'Order shipped March 9th to 221B Baker Street.'",1
+What is 15% of 240?,1
+Summarize the main complaint in the invoice and suggest one fix.,2
+Convert this into title case: this news article,1
+"Argue for or against a claim found in the user's feedback, addressing the strongest counterargument.",3
+"Argue for or against a claim found in the onboarding doc, addressing the strongest counterargument.",3

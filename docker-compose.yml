@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OLLAMA_HOST=http://ollama:11434
+    volumes:
+      - ./cost_autopilot.db:/app/cost_autopilot.db
+    depends_on:
+      - ollama
+
+  dashboard:
+    build: .
+    command: streamlit run dashboard/dashboard.py --server.port 8501 --server.address 0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./cost_autopilot.db:/app/cost_autopilot.db
+    depends_on:
+      - api
+
+  # Weekly classifier retraining, run as a one-off/cron job rather than a
+  # long-running service: `docker compose run retrain-worker`
+  retrain-worker:
+    build: .
+    command: python -m app.classifier.retrain
+    volumes:
+      - ./cost_autopilot.db:/app/cost_autopilot.db
+      - ./app/classifier/classifier.pkl:/app/app/classifier/classifier.pkl
+      - ./app/classifier/data/labeled_prompts.csv:/app/app/classifier/data/labeled_prompts.csv
+    profiles: ["tools"]  # only runs via `docker compose run`, not `up`
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+volumes:
+  ollama_data:
