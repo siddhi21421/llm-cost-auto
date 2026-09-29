@@ -1,9 +1,0 @@
-routing_map:
-  1: gpt-4o-mini
-  2: gpt-4o-mini
-  3: gpt-4o
-
-verifier_model: gpt-4o
-
-low_confidence_threshold: 0.55
-escalate_on_low_confidence: true
